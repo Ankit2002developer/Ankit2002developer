@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Email: workwithankit2002@gmail.com or dreamer@kgpian.iitkgp.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i7VN07LlTGK5qm8v65Rs8zKyXwvWONOo/view?usp=sharing](https://drive.google.com/file/d/1i7VN07LlTGK5qm8v65Rs8zKyXwvWONOo/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/ankit-pathak-907902217/)
 
 - ⚡ Fun fact **I code and crack jokes...**
 <h3 align="left"> My Github Trophies🚀</h3>
