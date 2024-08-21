@@ -1,4 +1,11 @@
 
+![logo](https://github.com/Ankit2002developer/Ankit2002developer/blob/main/github-header-image.png)
+<h1 align="center">Hi 👋, I'm Ankit Pathak</h1>
+<h3 align="center">A passionate Web developer and aspiring Data analyst enthusiast from India</h3>
+
+<img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit2002developer&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit2002developer" /> </p>
 
 👋 Hi there! I’m Ankit Pathak, a final year undergraduate at <b>IIT Kharagpur</b>, where I’m diving deep into <b>Applied Geology</b>. When I’m not exploring the wonders of the earth, I’m immersed in the world of Full Stack <b>Web Development</b>.
 
@@ -9,16 +16,6 @@
 🔧 Check out my repositories for a glimpse into my projects, and feel free to connect—I’d love to collaborate or chat about technology, geology, or anything in between.
 
 Let’s build something amazing together!
-
-![logo](https://github.com/Ankit2002developer/Ankit2002developer/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Ankit Pathak</h1>
-<h3 align="center">A passionate Web developer and aspiring Data analyst enthusiast from India</h3>
-
-<img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit2002developer&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit2002developer" /> </p>
-
-
 
 - 🔭 I’m currently working on **building an E-Commerce Website**
 
