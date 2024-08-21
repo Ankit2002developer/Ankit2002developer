@@ -1,3 +1,15 @@
+
+
+👋 Hi there! I’m Ankit Pathak, a final year undergraduate at <b>IIT Kharagpur</b>, where I’m diving deep into <b>Applied Geology</b>. When I’m not exploring the wonders of the earth, I’m immersed in the world of Full Stack <b>Web Development</b>.
+
+🌍 My academic journey has given me a strong foundation in problem-solving and analytical thinking, while my passion for coding drives me to create innovative and impactful web applications. I love blending these skills to build solutions that are both technically robust and user-friendly.
+
+🚀 I’m always eager to learn and collaborate on exciting projects. Whether it's tackling complex geological data or developing sleek, efficient web solutions, I’m up for the challenge!
+
+🔧 Check out my repositories for a glimpse into my projects, and feel free to connect—I’d love to collaborate or chat about technology, geology, or anything in between.
+
+Let’s build something amazing together!
+
 ![logo](https://github.com/Ankit2002developer/Ankit2002developer/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ankit Pathak</h1>
 <h3 align="center">A passionate Web developer and aspiring Data analyst enthusiast from India</h3>
